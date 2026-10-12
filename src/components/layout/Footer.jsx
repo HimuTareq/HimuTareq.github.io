@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="site-footer">
       <div className="container">
         <small>
-          © {new Date().getFullYear()} {profile.name}. Built with React, Bootstrap and custom CSS.
+          © {new Date().getFullYear()} {profile.name}.
         </small>
       </div>
     </footer>
