@@ -11,7 +11,7 @@ export const profile = {
 };
 
 export const hero = {
-  
+  eyebrow: "Cyber Security Portfolio",
   titleLineOne: "Aspiring",
   titleAccent: "Cyber Security",
   titleLineTwo: "Analyst based in Sydney.",
